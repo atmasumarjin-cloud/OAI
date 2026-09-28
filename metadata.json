@@ -1,0 +1,6 @@
+{
+  "name": "Olimpiade Anak Indonesia",
+  "description": "Platform Resmi Olimpiade Online Nasional untuk Anak Indonesia yang didukung oleh Yayasan Besarasa Bagi Bangsa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
